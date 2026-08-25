@@ -1,0 +1,23 @@
+[
+  {
+    "id": "user1",
+    "nombre_pantalla": "xavi",
+    "servidor_url": "http://df5r4fav.4kmixlive.top:8080",
+    "usuario": "MIXN0855177421781711",
+    "password": "336fteuxw46b"
+  },
+  {
+    "id": "user2",
+    "nombre_pantalla": "futbol",
+    "servidor_url": "http://d588snhy.4kmixlive.top:8080",
+    "usuario": "MIXN0873177421782712",
+    "password": "55bs3ttaj2md"
+  },
+  {
+    "id": "user3",
+    "nombre_pantalla": "antonio",
+    "servidor_url": "http://uqw3nsqj.4kmixlive.top:8080",
+    "usuario": "MIXN088177421783713",
+    "password": "4ux8ekavwmw3"
+  }
+]
