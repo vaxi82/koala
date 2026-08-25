@@ -1,6 +1,7 @@
 [
   {
     "id": "user1",
+    "tipo": "XTREAM",
     "nombre_pantalla": "xavi",
     "servidor_url": "http://df5r4fav.4kmixlive.top:8080",
     "usuario": "MIXN0855177421781711",
@@ -8,6 +9,7 @@
   },
   {
     "id": "user2",
+    "tipo": "XTREAM",
     "nombre_pantalla": "futbol",
     "servidor_url": "http://d588snhy.4kmixlive.top:8080",
     "usuario": "MIXN0873177421782712",
@@ -15,9 +17,16 @@
   },
   {
     "id": "user3",
+    "tipo": "XTREAM",
     "nombre_pantalla": "antonio",
     "servidor_url": "http://uqw3nsqj.4kmixlive.top:8080",
     "usuario": "MIXN088177421783713",
     "password": "4ux8ekavwmw3"
+  },
+  {
+    "id": "user4",
+    "tipo": "M3U",
+    "nombre_pantalla": "Lista M3U",
+    "m3u_url": "http://ejemplo.com/lista.m3u8"
   }
 ]
